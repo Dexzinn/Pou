@@ -1,0 +1,3 @@
+# Pou
+Teste sobre as aulas do curso do canal curso em video de CSS
+É sobre isso, não tem nada de mais, porém irei ir adiocionando mais coisas e no final quero ter uma página legalzinha inspirada com imagens de pou e etc...
